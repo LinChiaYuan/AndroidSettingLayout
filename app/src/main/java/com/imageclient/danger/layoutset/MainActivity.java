@@ -1,5 +1,11 @@
 package com.imageclient.danger.layoutset;
-
+/**
+ *
+ *  author  :   Chia Yuan Lin (林家源)
+ *
+ *  email   :   lo919201@gmail.com
+ *
+ * **/
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
